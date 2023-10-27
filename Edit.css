@@ -1,0 +1,17 @@
+
+
+body{
+    background: black;
+    color: white;
+}
+
+a{
+    
+    color: aqua ;
+}
+
+table, th, tr, td {
+    border-color: blanchedalmond;
+    border-style: solid;
+    border-collapse: collapse;
+}
